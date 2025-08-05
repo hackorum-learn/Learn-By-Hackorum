@@ -1,0 +1,11 @@
+{
+    "level_id": "817ad744-617d-413b-9f6d-8cf87a805759",
+    "level_name": "Aquarium",
+    "team_size": 4,
+    "number_of_teams": 4,
+    "generators": [
+        {"generator_type": "iron", "location": [10,60,30], "spawn_rate": 1},
+        {"generator_type": "gold", "location": [10,60,30], "spawn_rate": 3},
+        {"generator_type": "emerald", "location": [40,70,50], "spawn_rate": 25}
+    ]
+}
